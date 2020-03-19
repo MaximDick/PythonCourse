@@ -31,4 +31,3 @@ people = 5
 
 peopleAgeAll = (peopleOne + peopleTwo + peopleThree + peopleThree + peopleFour + peopleFive) / people
 
-
